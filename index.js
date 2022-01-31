@@ -8,6 +8,7 @@ const adjetivos = [
 	'indulgente',
 	'esclarecid_',
 	'genial',
+	'preemptiv_',
 	'industrios_',
 	'judicios_',
 	'luminar',
