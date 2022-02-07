@@ -14,6 +14,7 @@ const adjetivos = [
 	'genial',
 	'preemptiv_',
 	'industrios_',
+	'pundonoros_',
 	'judicios_',
 	'luminar',
 	'cativante',
