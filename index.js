@@ -65,6 +65,9 @@ const adjetivos = [
 	'indefectível',
 	'indeteriorável',
 	'de sabedoria macróbia',
+	'pluricelular',
+	'loquaz',
+	'prolegômen_',
 ];
 const args = process.argv.slice(2);
 const genero = (args[0] || 'm').toLowerCase() === 'm' ? 'm' : 'f';
