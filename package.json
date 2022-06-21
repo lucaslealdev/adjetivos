@@ -1,5 +1,17 @@
 {
+  "name": "adjetivos",
+  "version": "1.0.0",
+  "description": "gera bonitos adjetivos variando em gênero",
+  "main": "index.js",
   "type": "module",
+  "scripts": {
+    "default": "node index.js m 3"
+  },
+  "bin": {
+    "adjetivos": "./index.js"
+  },
+  "author": "Lucas Leal dos Santos",
+  "license": "MIT",
   "dependencies": {
     "clipboardy": "^3.0.0"
   }

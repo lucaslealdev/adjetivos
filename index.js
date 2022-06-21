@@ -92,7 +92,7 @@ function gerar(){
 
 const result = gerar();
 clipboard.writeSync(result);
-console.log(`Texto '${result}' copiado para a área de transferência`);
+console.log(result);
 
 //https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array#:~:text=algorithm%20is%20the-,Fisher%2DYates,-(aka%20Knuth)%20Shuffle
 function shuffle(array) {
