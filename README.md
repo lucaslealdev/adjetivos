@@ -32,7 +32,7 @@ Para instalar é preciso ter um ambiente com node.js devidamente configurado. No
 
 Utilize o comando abaixo para instalar globalmente o repositório:
 
-```npm i -g git@github.com:lucaslealdev/adjetivos.git```
+```npm i -g adjetivos```
 
 
 
