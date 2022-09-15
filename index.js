@@ -69,6 +69,8 @@ const adjetivos = [
 	'de sabedoria macróbia',
 	'pluricelular',
 	'loquaz',
+	'dout_',
+	'erudit_',
 	'prolegômen_',
 ];
 const args = process.argv.slice(2);
