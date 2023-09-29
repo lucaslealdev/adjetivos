@@ -1,6 +1,6 @@
 {
   "name": "adjetivos",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "gera bonitos adjetivos variando em gênero",
   "main": "index.js",
   "type": "module",
