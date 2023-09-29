@@ -15,6 +15,8 @@ const adjetivos = [
 	'esclarecid_',
 	'genial',
 	'preemptiv_',
+	'batráqui_',
+	'polinomial',
 	'industrios_',
 	'pundonoros_',
 	'judicios_',
